@@ -1,0 +1,1 @@
+export const getTvShows = state => state.shows;
